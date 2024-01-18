@@ -9,5 +9,7 @@ https://www.kaggle.com/competitions/playground-series-s4e1/
 ### Solution model
 Solution based on stacking ensemble:
 - Classical Gradient Boosting
-- XGBoosting
+- XGBoost
+- CatBoost
+- Random Forest
 - Light MLP model
